@@ -14,7 +14,7 @@
 
 ### *THIS LIST OF GIT COMMANDS IS NOT COMPREHENSIVE!*
 
-# **How to remove origin connection in with git commands**
+# **How to remove origin connection with git commands**
 
 ## Removing Connection to Remote Repo
 > First run  git command `git remote -v` to identify your current connection. Then run `git remote remove origin` to break connection to current remote repo. Optional to run `git remote -v` to verify no connection to remote repo. Then run `git rmote add origin [insert remote SSH code here]` to connect to the preferred remote repo!
